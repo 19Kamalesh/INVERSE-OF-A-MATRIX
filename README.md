@@ -23,8 +23,7 @@ result=np.linalg.inv(matrixa)
 print(result)
 ```
 ## Output:
-<img width="869" height="590" alt="image" src="https://github.com/user-attachments/assets/b2634b94-cbba-4007-a267-075561adc4d0" />
-
+<img width="869" height="564" alt="image" src="https://github.com/user-attachments/assets/5da84d3c-2146-45af-b5a0-803cc9d62f02" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
